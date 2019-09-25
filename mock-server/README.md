@@ -321,7 +321,7 @@ mock-server2-6d7b94ddc5-hwx6n   1/1     Running   0          138m    10.1.0.13  
 
 ## 第五步: 升级
 
-## 重新制作 image
+### 重新制作 image
 
 直接使用原代码，构建不 tag 的 image
 
@@ -357,7 +357,7 @@ deployment.extensions/mock-server1
 REVISION  CHANGE-CAUSE
 1         <none>
 2         <none>```
-
+```
 
 ## 其他总结
 
